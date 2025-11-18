@@ -1,2 +1,5 @@
 /* base.css — conteúdo limpo. Estilos removidos. */
 
+body {
+    font-family: var(--fonte-principal);
+}
