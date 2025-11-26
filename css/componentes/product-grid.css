@@ -9,7 +9,7 @@
 .highlight {
     grid-area: highlight;
     background-image: url(../../images/products/card_imagem.jpg);
-    background-position: left;
+    background-position: center;
 
 }
 
